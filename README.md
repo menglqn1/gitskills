@@ -1,2 +1,2 @@
 # gitskills
-Creating a new a quick
+Creating a new a quick & simple
